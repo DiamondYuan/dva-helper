@@ -1,8 +1,9 @@
 {
   "name": "umi-pro",
   "displayName": "Umi Pro",
+  "icon": "images/umi.png",
   "description": "Write Umi like a Pro! ",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "license": "MIT",
   "engines": {
     "vscode": "^1.33.0"
