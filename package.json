@@ -92,7 +92,7 @@
     "prettier": "^1.17.1",
     "remap-istanbul": "^0.13.0",
     "sinon": "^7.3.2",
-    "typescript": "^3.4.5",
+    "typescript": "^3.5.1",
     "vsce": "^1.61.0",
     "vscode": "^1.1.34"
   },
