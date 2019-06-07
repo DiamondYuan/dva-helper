@@ -182,10 +182,10 @@
     "@types/minimatch" "*"
     "@types/node" "*"
 
-"@types/lodash@^4.14.132":
-  version "4.14.132"
-  resolved "https://registry.npm.taobao.org/@types/lodash/download/@types/lodash-4.14.132.tgz#8ce45ca8745ff2e004fac0de0ab46f61e390ffa0"
-  integrity sha1-jORcqHRf8uAE+sDeCrRvYeOQ/6A=
+"@types/lodash@^4.14.134":
+  version "4.14.134"
+  resolved "https://registry.npm.taobao.org/@types/lodash/download/@types/lodash-4.14.134.tgz#9032b440122db3a2a56200e91191996161dde5b9"
+  integrity sha1-kDK0QBIts6KlYgDpEZGZYWHd5bk=
 
 "@types/minimatch@*":
   version "3.0.3"
