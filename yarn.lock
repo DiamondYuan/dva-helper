@@ -3774,10 +3774,10 @@ prettier-linter-helpers@^1.0.0:
   dependencies:
     fast-diff "^1.1.2"
 
-prettier@^1.17.1:
-  version "1.17.1"
-  resolved "https://registry.npm.taobao.org/prettier/download/prettier-1.17.1.tgz#ed64b4e93e370cb8a25b9ef7fef3e4fd1c0995db"
-  integrity sha1-7WS06T43DLiiW573/vPk/RwJlds=
+prettier@^1.18.0:
+  version "1.18.0"
+  resolved "https://registry.npm.taobao.org/prettier/download/prettier-1.18.0.tgz#d1701ca9b2941864b52f3262b35946d2c9cd88f0"
+  integrity sha1-0XAcqbKUGGS1LzJis1lG0snNiPA=
 
 process-nextick-args@~2.0.0:
   version "2.0.0"
