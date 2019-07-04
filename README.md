@@ -104,11 +104,13 @@
 
 ## 可配置项
 
-| 配置项                       | 类型                          | 作用               |
-| ---------------------------- | ----------------------------- | ------------------ |
-| `umi_pro.quotes`             | `single`,`double` ,`backtick` | 引号类型           |
-| `umi_pro.router_config_path` | string                        | 路由配置文件的路径 |
-| `umi_pro.locale` | string                        | 多语言提示以哪个语言的内容为准，默认`zh-CN.js` |
+| 配置项 | 类型 | 作用 |
+| --- | --- | --- |
+| `umi_pro.quotes` | `single`,`double` ,`backtick` | 引号类型 |
+| `umi_pro.router_config_path` | string | 路由配置文件的路径 |
+| `umi_pro.locale` | string   | 多语言提示以哪个语言的内容为准，默认`zh-CN.js` |
+| `umi_pro.autoGenerateSagaEffectsCommands` | boolean | 是否开启 saga effects 自动补全 |
+
 
 ## model 读取规则
 
