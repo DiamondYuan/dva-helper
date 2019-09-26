@@ -93,7 +93,7 @@
 	</tr>
 	<tr><!-- Prevent zebra stripes --></tr>
 	<tr>
-		<td>docs/demo.gif
+		<td>
 			<img src="https://github.com/umijs/vscode-extension-umi-pro/raw/master/images/goto.gif" />
 		</td>
 		<td>
